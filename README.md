@@ -46,7 +46,7 @@ Figure 1 : Diagramme de classe illustrant les liens entre
 Manager et Board avec les autres éléments du jeu
 ```
 
-![A test image](doc/image/diag1.png)
+![diagramme1](doc/image/diag1.png)
 
 ### 1.1 LA GESTION DES JOUEURS
 
@@ -87,6 +87,9 @@ que tous les joueurs ont effectué le tour de table en cours.
 ```
 Figure 2 : Diagramme de classe illustrant l'héritage des bots
 ```
+
+![diagramme2](doc/image/diag2.png)
+
 ```
 Comme demandé, nous avons 4 bots avec des stratégies différentes :
 ```
