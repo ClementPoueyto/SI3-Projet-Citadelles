@@ -1,0 +1,206 @@
+[
+    {
+        "color":"religion",
+        "value":1,
+        "cost":1,
+        "nb":3,
+        "nom":"Temple"
+    },
+    {
+        "color":"religion",
+        "value":2,
+        "cost":2,
+        "nb":4,
+        "nom":"Eglise"
+    },
+    {
+        "color":"religion",
+        "value":3,
+        "cost":3,
+        "nb":3,
+        "nom":"Monastere"
+    },
+    {
+        "color":"religion",
+        "value":5,
+        "cost":5,
+        "nb":2,
+        "nom":"Cathedrale"
+    },
+    {
+        "color":"noblesse",
+        "value":3,
+        "cost":3,
+        "nb":5,
+        "nom":"Manoir"
+    },
+    {
+        "color":"noblesse",
+        "value":4,
+        "cost":4,
+        "nb":4,
+        "nom":"Chateau"
+    },
+    {
+        "color":"noblesse",
+        "value":5,
+        "cost":5,
+        "nb":2,
+        "nom":"Palais"
+    },
+    {
+        
+        "color":"commerce",
+        "value":1,
+        "cost":1,
+        "nb":5,
+        "nom":"Taverne"
+    },
+    {
+        
+        "color":"commerce",
+        "value":2,
+        "cost":2,
+        "nb":3,
+        "nom":"Echoppe"
+    },
+    {
+        
+        "color":"commerce",
+        "value":2,
+        "cost":2,
+        "nb":4,
+        "nom":"Marche"
+    },
+    {
+        
+        "color":"commerce",
+        "value":3,
+        "cost":3,
+        "nb":3,
+        "nom":"Comptoir"
+    },
+    {
+        
+        "color":"commerce",
+        "value":4,
+        "cost":4,
+        "nb":3,
+        "nom":"Port"
+    },
+    {
+        
+        "color":"commerce",
+        "value":5,
+        "cost":5,
+        "nb":2,
+        "nom":"Hotel de ville"
+    },
+    {
+        
+        "color":"soldatesque",
+        "value":1,
+        "cost":1,
+        "nb":3,
+        "nom":"Tour de guet"
+    },
+    {
+        
+        "color":"soldatesque",
+        "value":2,
+        "cost":2,
+        "nb":3,
+        "nom":"Prison"
+    },
+    {
+        
+        "color":"soldatesque",
+        "value":3,
+        "cost":3,
+        "nb":3,
+        "nom":"Caserne"
+    },
+    {
+        
+        "color":"soldatesque",
+        "value":5,
+        "cost":5,
+        "nb":2,
+        "nom":"Forteresse"
+    },
+    {
+        
+        "color":"merveille",
+        "value":8,
+        "cost":6,
+        "nb":1,
+        "nom":"Universite"
+    },
+    {
+        
+        "color":"merveille",
+        "value":8,
+        "cost":6,
+        "nb":1,
+        "nom":"Dracoport"
+    },
+    {
+        
+        "color":"merveille",
+        "value":5,
+        "cost":5,
+        "nb":1,
+        "nom":"Observatoire"
+    },
+    {
+        
+        "color":"merveille",
+        "value":6,
+        "cost":6,
+        "nb":1,
+        "nom":"Bibliotheque"
+    },
+    {
+        
+        "color":"merveille",
+        "value":5,
+        "cost":5,
+        "nb":1,
+        "nom":"Manufacture"
+    },
+    {
+        "color":"merveille-soldatesque-noblesse-religion-commerce",
+        "value":6,
+        "cost":6,
+        "nb":1,
+        "nom":"Ecole de Magie"
+    },
+    {
+        "color":"merveille",
+        "value":3,
+        "cost":3,
+        "nb":2,
+        "nom":"Donjon"
+    },
+    {
+        "color":"merveille",
+        "value":5,
+        "cost":5,
+        "nb":1,
+        "nom":"Laboratoire"
+    },
+    {
+        "color":"merveille",
+        "value":5,
+        "cost":5,
+        "nb":1,
+        "nom":"Cimetiere"
+    },
+    {
+        "color":"merveille-soldatesque-noblesse-religion-commerce",
+        "value":5,
+        "cost":5,
+        "nb":1,
+        "nom":"Cour des Miracles"
+    }
+]
