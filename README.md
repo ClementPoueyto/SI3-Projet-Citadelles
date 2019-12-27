@@ -46,6 +46,8 @@ Figure 1 : Diagramme de classe illustrant les liens entre
 Manager et Board avec les autres éléments du jeu
 ```
 
+![A test image](doc/image/diag1.png)
+
 ### 1.1 LA GESTION DES JOUEURS
 
 Dans le jeu il faut que chaque joueur puisse avoir le moyen de faire des recherches sur les autres joueurs.
